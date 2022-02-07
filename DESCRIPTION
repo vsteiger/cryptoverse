@@ -1,0 +1,10 @@
+Package: cryptoverse
+Type: Package
+Title: Cryptoverse 
+Version: 0.1.0
+Author: Vivian R. Steiger
+Maintainer: Vivian R. Steiger <viv.datascientist@gmail.com>
+Description: Cryptoverse provides data to quickly visualize and analyze data from several cryptocurrencies.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
